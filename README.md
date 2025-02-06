@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💻 ¡Hola! Soy Felipe Jiménez 👋
 
-<!--
-**felipejimeenezz/felipejimeenezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mí
+Soy un estudiante de Desarrollo de Aplicaciones Web en mi segundo año. Aquí encontrarás proyectos y trabajos que voy realizando a lo largo de mi trayectoria como desarrollador web. Me encanta el mundo del desarrollo web y el aprendizaje constante para mejorar mis habilidades y explorar nuevas herramientas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Lenguajes de Programación:
+- Java ☕
+- PHP 🐘
+- JavaScript ⚡
+- MySQL 🗄️
+- HTML & CSS 🎨
+
+### 🔧 Frameworks y Librerías:
+- Bootstrap 🎭
+- WordPress 🌐
+
+### 🛠️ Herramientas y Plataformas:
+- Git & GitHub 🖥️
+- Docker 🐳
+- XAMPP 🔥
+
+## 📈 En qué estoy trabajando
+- Actualmente, desarrollo proyectos personales y académicos en web, utilizando tecnologías como PHP, MySQL, y JavaScript.
+- Explorando nuevas herramientas y frameworks para mejorar mis habilidades.
+
+## 📬 Contactame!
+- 📧 [Email](mailto:jimenezluquefelipe@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-jiménez-luque-b6a1082a2/)
+- 📷 [Instagram](https://www.instagram.com/felipejimeenezz)

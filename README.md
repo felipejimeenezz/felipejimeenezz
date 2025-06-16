@@ -18,7 +18,6 @@ Soy un estudiante de Desarrollo de Aplicaciones Web en mi segundo año. Aquí en
 
 ### 🛠️ Herramientas y Plataformas:
 - Git & GitHub 🖥️
-- Docker 🐳
 - XAMPP 🔥
 
 ## 📈 En qué estoy trabajando
